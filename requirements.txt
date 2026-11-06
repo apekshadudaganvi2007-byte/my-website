@@ -1,0 +1,8 @@
+from flask import ...	flask and gunicorn (needed for Render hosting)
+import streamlit as st	streamlit
+import pandas as pd	pandas
+import numpy as np	numpy
+import sklearn / from sklearn...	scikit-learn
+import matplotlib.pyplot	matplotlib
+import plotly...	plotly
+import requests	requests
